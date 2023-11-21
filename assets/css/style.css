@@ -446,30 +446,30 @@ img {
   width: 95%;
 }
 .skills__css {
-  width: 84%;
-}
-.skills__javascript {
   width: 80%;
 }
+.skills__javascript {
+  width: 90%;
+}
 .skills__react {
-  width: 76%;
+  width: 85%;
 }
 
 .skills__nodejs {
-  width: 92%;
+  width: 90%;
 }
 .skills__expressjs {
-  width: 80%;
+  width: 85%;
 }
 .skills__mongodb {
-  width: 86%;
+  width: 85%;
 }
 .skills__firebase {
-  width: 79%;
+  width: 80%;
 }
 
 .skills__figma {
-  width: 93%;
+  width: 80%;
 }
 .skills__adobexd {
   width: 96%;
@@ -480,6 +480,9 @@ img {
 
 .skills__git {
   width: 91%;
+}
+.skills__ts {
+  width: 80%;
 }
 .skills__close .skills__list {
   height: 0;
@@ -502,7 +505,7 @@ img {
   position: relative;
   background-color: var(--container-color);
   padding: 3.5rem 0.5rem 1.25rem 1.5rem;
-  border-radius: 0.25rem;
+  border-radius: 1rem;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
   transition: 0.3s;
 }
