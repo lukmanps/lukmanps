@@ -15,7 +15,5 @@ I am a full stack web developer with a passion for web technologies and developm
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lukmanps&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=lukmanps&icon=1&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
